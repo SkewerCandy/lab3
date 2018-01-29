@@ -12,22 +12,20 @@ Release Date: Jan 23, 2018
 
 -   controllers
 
-    -   serbian (AB)
+    -   Alisa (Captain)
     
 ## Updated Components
 
 -   controllers
 
-    -   german (CD)
-    -   hindi (CD)
+    -   Yen (Mate)
 
 -   models
 
-    -   italian (AB)
+    -   Alisa (Captain)
 
 -   views
 
-    -   slovenian (AB)
-    -   swedish
+    -   Ysabel (Mate)
 
 
